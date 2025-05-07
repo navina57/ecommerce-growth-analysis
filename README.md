@@ -106,7 +106,7 @@ The aim is to simulate the role of a **Product Growth Analyst** by:
 
 ---
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 - **Python** (Pandas, NumPy, Seaborn, Matplotlib)  
 - **Jupyter Notebook**  
 - **Exploratory Data Analysis (EDA)**  
